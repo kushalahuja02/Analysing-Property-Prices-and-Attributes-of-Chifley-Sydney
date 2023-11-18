@@ -33,8 +33,9 @@ Navigate to the 'data' directory to access the dataset.
 The 'scripts' directory contains code for data manipulation and visualisation.
 Documentation on data sources and visualisation techniques is available in the 'docs' folder.
 For detailed analysis and findings, refer to the 'analysis' section.
+
 ## Contributing
-This project is part of an educational assignment. Contributions, suggestions, and feedback are welcome. Please read through our contribution guidelines before making a pull request.
+Contributions to this project are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
