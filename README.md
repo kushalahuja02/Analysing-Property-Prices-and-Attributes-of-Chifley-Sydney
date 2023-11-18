@@ -36,6 +36,7 @@ For detailed analysis and findings, refer to the 'analysis' section.
 
 ## Usage
 ***Using the Tableau Workbook***
+
 This project includes a pre-designed Tableau workbook that allows for in-depth analysis and visualization of property market data. Here's how to use it:
 
 Download the Workbook: After cloning this repository, navigate to the 'tableau' directory. Here, you'll find the Tableau workbook file (with a .twbx extension).
@@ -45,6 +46,7 @@ Open Tableau: Launch Tableau or Tableau Public on your computer. If you don't ha
 Load the Workbook: In Tableau, select 'Open' and navigate to the downloaded Tableau workbook file. Open the file to load the workbook.
 
 ***Interacting with Visualizations***
+
 Explore the Visualizations: The workbook contains various pre-built visualizations and dashboards. Explore these by clicking on different tabs within the workbook.
 
 Filter and Drill-down: Use the interactive features such as filters and drill-down options to explore different aspects of the data. These tools allow for a customized view and deeper analysis.
