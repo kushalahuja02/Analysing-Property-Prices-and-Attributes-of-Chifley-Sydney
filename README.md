@@ -35,28 +35,17 @@ Documentation on data sources and visualisation techniques is available in the '
 For detailed analysis and findings, refer to the 'analysis' section.
 
 ## Usage
-***Using the Tableau Workbook***
 
-This project includes a pre-designed Tableau workbook that allows for in-depth analysis and visualization of property market data. Here's how to use it:
+**Working with the Excel Workbook**
+This project utilizes an Excel workbook for the analysis and visualization of property market data. Below are the steps to use the Excel file effectively:
 
-Download the Workbook: After cloning this repository, navigate to the 'tableau' directory. Here, you'll find the Tableau workbook file (with a .twbx extension).
+Opening and Navigating the Workbook
+Download the Workbook: After cloning this repository, find the Excel workbook file in the 'data' or 'excel' directory.
 
-Open Tableau: Launch Tableau or Tableau Public on your computer. If you don't have Tableau installed, you can download it from the official Tableau website or use Tableau Public.
+Open in Excel: Launch Microsoft Excel on your computer and open the downloaded workbook.
 
-Load the Workbook: In Tableau, select 'Open' and navigate to the downloaded Tableau workbook file. Open the file to load the workbook.
-
-***Interacting with Visualizations***
-
-Explore the Visualizations: The workbook contains various pre-built visualizations and dashboards. Explore these by clicking on different tabs within the workbook.
-
-Filter and Drill-down: Use the interactive features such as filters and drill-down options to explore different aspects of the data. These tools allow for a customized view and deeper analysis.
-
-
-## Visit My Tableau Public Profile
-Alternatively, you can directly view the visualizations and dashboards on my Tableau Public profile:
-
-Visit Here: Kushal Ahuja's Tableau Public Profile (https://public.tableau.com/app/profile/kushal.ahuja/vizzes)
-This link leads to a collection of my visualizations and analyses, including the ones relevant to this project.
+Exploring Data and Visualizations
+Explore Sheets: The workbook is organized into different sheets, each containing specific types of data or visualizations.
 
 ## Contributing
 Contributions to this project are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
