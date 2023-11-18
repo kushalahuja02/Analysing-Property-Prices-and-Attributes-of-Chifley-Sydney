@@ -50,6 +50,14 @@ Load the Workbook: In Tableau, select 'Open' and navigate to the downloaded Tabl
 Explore the Visualizations: The workbook contains various pre-built visualizations and dashboards. Explore these by clicking on different tabs within the workbook.
 
 Filter and Drill-down: Use the interactive features such as filters and drill-down options to explore different aspects of the data. These tools allow for a customized view and deeper analysis.
+
+
+## Visit My Tableau Public Profile
+Alternatively, you can directly view the visualizations and dashboards on my Tableau Public profile:
+
+Visit Here: Kushal Ahuja's Tableau Public Profile
+This link leads to a collection of my visualizations and analyses, including the ones relevant to this project.
+
 ## Contributing
 Contributions to this project are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
