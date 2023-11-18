@@ -55,7 +55,7 @@ Filter and Drill-down: Use the interactive features such as filters and drill-do
 ## Visit My Tableau Public Profile
 Alternatively, you can directly view the visualizations and dashboards on my Tableau Public profile:
 
-Visit Here: Kushal Ahuja's Tableau Public Profile
+Visit Here: Kushal Ahuja's Tableau Public Profile (https://public.tableau.com/app/profile/kushal.ahuja/vizzes)
 This link leads to a collection of my visualizations and analyses, including the ones relevant to this project.
 
 ## Contributing
